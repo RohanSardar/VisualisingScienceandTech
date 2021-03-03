@@ -1,5 +1,5 @@
-# SCIENCEandTECHnology
-This is the official GitHub repository of the YouTube Channel "SCIENCE and TECHnology". Link- www.youtube.com/c/SCIENCEandTECHnologyindia
+# VisualisingScienceandTech
+This is the official GitHub repository of the YouTube Channel "Visualising Science and Tech". Link- www.youtube.com/c/VisualisingScienceandTech
 Please subscribe to the channel for getting more such videos and codes
 
 I'm Rohan Sardar, the owner of the YouTube channel as well as this repository and I am trying my best to provide good quality contents as far as I could.
